@@ -1,7 +1,7 @@
 import json
 
-ruta_config1 = "/etc/v2ray/config.json"
-ruta_config = "config_br.json"
+ruta_config = "/etc/v2ray/config.json"
+#ruta_config = "config_br.json"
 
 def clients_list(user_seller):
     try:

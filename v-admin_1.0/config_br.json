@@ -1,0 +1,396 @@
+{
+  "log": {
+    "access": "/var/log/v2ray/access.log",
+    "error": "/var/log/v2ray/error.log",
+    "loglevel": "info"
+  },
+  "inbounds": [
+    {
+      "port": 80,
+      "protocol": "vmess",
+      "settings": {
+        "clients": [
+           {
+           "alterId": 0,
+           "id": "29019b29-136f-4e40-91ac-0fc6894d750c",
+           "email": "lx3z5W1Yl1@gmail.com"
+           },
+           {
+           "alterId": 0,
+           "id": "1d99d71b-7c77-4560-96d8-4b90b2d72ce1",
+           "email": "9CsZCjj98G@gmail.com"
+           },
+          {
+            "alterId": 0,
+            "id": "17b1b94e-37c9-4593-b1c4-92c57a6d45ca",
+            "email": "WBRw20Nwpz@gmail.com"
+          },
+          {
+            "alterId": 0,
+            "id": "db7d87b7-4f6f-471f-97dc-1d0320e480fa",
+            "email": "NT12fZHTY7@gmail.com"
+          },
+          {
+            "alterId": 0,
+            "id": "5fc14493-4ee1-4db5-bc12-45ebd0c327c3",
+            "email": "RFrvNzGmiQ@gmail.com"
+          },
+          {
+            "alterId": 0,
+            "id": "9e3022ae-207c-4d00-bac0-34b7155a47d5",
+            "email": "Y6uUej8SNi@gmail.com"
+          },
+          {
+            "alterId": 0,
+            "id": "bcb2449a-7ccb-4266-897b-42f48bbeac77",
+            "email": "NJGUZck574@gmail.com"
+          },
+          {
+            "alterId": 0,
+            "id": "b00afdb4-c03c-4212-9cff-f5cdc1864ee2",
+            "email": "mMhrP0rb4F@gmail.com"
+          },
+          {
+            "alterId": 0,
+            "id": "af037d83-1210-4025-8752-90dcffbaa0c2",
+            "email": "0qpMwxBZJQ@gmail.com"
+          },
+          {
+            "alterId": 0,
+            "id": "14963d3e-f98c-436b-a72c-27c836e122a9",
+            "email": "rP9j9TRGAk@gmail.com"
+          },
+          {
+            "alterId": 0,
+            "id": "78d08b0e-5ee9-423b-ab25-a1b3bab1d6d6",
+            "email": "mDhBnU8pII@gmail.com"
+          },
+          {
+            "alterId": 0,
+            "id": "5e4991c0-425a-4079-a0a5-8c1b4eeb2b02",
+            "email": "lSPkGxTAcG@gmail.com"
+          },
+          {
+            "alterId": 0,
+            "id": "dadc1ef5-ba05-4256-840a-024316942c77",
+            "email": "euqjUgYVLY@gmail.com"
+          },
+          {
+            "alterId": 0,
+            "id": "28a54754-f22f-4ede-895a-2c4ded7da269",
+            "email": "nqs3xQh1eY@gmail.com"
+          },
+          {
+            "alterId": 0,
+            "id": "dee719c8-89b2-462e-b106-7a7aee0a5cad",
+            "email": "KF7tzv6d5y@gmail.com"
+          },
+          {
+            "alterId": 0,
+            "id": "75db40f0-1206-4d2b-8def-5ebfbd510af6",
+            "email": "xDybBSt36P@gmail.com"
+          },
+          {
+            "alterId": 0,
+            "id": "abde5d90-a2fe-4321-82bc-af86fdd202ea",
+            "email": "ob83EOCZlw@gmail.com"
+          },
+          {
+            "alterId": 0,
+            "id": "f90bb83c-2a4e-434f-9532-2c47176d42f7",
+            "email": "Dlw70g8LW3@gmail.com"
+          },
+          {
+            "alterId": 0,
+            "id": "446a63e3-3ed3-46e2-bac2-25e1c43b0931",
+            "email": "HEG2pMOT60@gmail.com"
+          },
+          {
+            "alterId": 0,
+            "id": "4e7fc66f-20f1-43ff-9a7f-18d12931286d",
+            "email": "pSgdmH0xLw@gmail.com"
+          },
+          {
+            "alterId": 0,
+            "id": "f2e3ff5f-3067-4d5e-9b22-0d45f8e06a50",
+            "email": "4b323rfTHK@gmail.com"
+          },
+          {
+            "alterId": 0,
+            "id": "d47590e7-bc92-4342-b4fb-f72c6d0c9796",
+            "email": "74YY9fb4f0@gmail.com"
+          },
+          {
+            "alterId": 0,
+            "id": "dbdf6c7a-8332-48fc-bded-24f4c03ba50b",
+            "email": "kFrGEmV00c@gmail.com"
+          },
+          {
+            "alterId": 0,
+            "id": "e6dde1b9-6509-4f59-805a-749e8fe44dc6",
+            "email": "he854kaApq@gmail.com"
+          },
+          {
+            "alterId": 0,
+            "id": "e1ef9621-d1e9-4466-8eb0-97a8f3e911d6",
+            "email": "NOXHWXxGkW@gmail.com"
+          },
+          {
+            "alterId": 0,
+            "id": "b876f47d-b0df-11eb-992c-d964cf2dff68"
+          },
+          {
+            "alterId": 0,
+            "id": "c04858a4-b0e3-11eb-92bf-f1689e237a45",
+            "email": "prueba@tomas.com"
+          },
+          {
+            "alterId": 0,
+            "id": "cc523b74-b0e3-11eb-92bf-f1689e237a45",
+            "email": "general@tomas.com"
+          },
+          {
+            "alterId": 0,
+            "id": "1b3fc590-b0e8-11eb-92bf-f1689e237a45",
+            "email": "joaquin@tomas.com"
+          },
+          {
+            "alterId": 0,
+            "id": "7e108ed4-b0e8-11eb-92bf-f1689e237a45",
+            "email": "negro@tomas.com"
+          },
+          {
+            "alterId": 0,
+            "id": "ad1c2bfc-b0e8-11eb-92bf-f1689e237a45",
+            "email": "negro2@tomas.com"
+          },
+          {
+            "alterId": 0,
+            "id": "e3455a46-b0e8-11eb-92bf-f1689e237a45",
+            "email": "mnegro@tomas.com"
+          },
+          {
+            "alterId": 0,
+            "id": "54a60a56-b0ed-11eb-92bf-f1689e237a45",
+            "email": "angel@tomas.com"
+          },
+          {
+            "alterId": 0,
+            "id": "af5f0024-b0ed-11eb-92bf-f1689e237a45",
+            "email": "luis@tomas.com"
+          },
+          {
+            "alterId": 0,
+            "id": "f7ada3d0-b0ed-11eb-92bf-f1689e237a45",
+            "email": "yaneth@tomas.com"
+          },
+          {
+            "alterId": 0,
+            "id": "4e584f5a-b0ee-11eb-92bf-f1689e237a45",
+            "email": "facu@tomas.com"
+          },
+          {
+            "alterId": 0,
+            "id": "96af52d0-b0ee-11eb-92bf-f1689e237a45",
+            "email": "kiko@tomas.com"
+          },
+          {
+            "alterId": 0,
+            "id": "d7f88978-b0ee-11eb-92bf-f1689e237a45",
+            "email": "marina@tomas.com"
+          },
+          {
+            "alterId": 0,
+            "id": "5e57d366-b0ef-11eb-92bf-f1689e237a45",
+            "email": "sebastian@tomas.com"
+          },
+          {
+            "alterId": 0,
+            "id": "a6348490-b0ef-11eb-92bf-f1689e237a45",
+            "email": "n4XCoT9r@sina.com"
+          },
+          {
+            "alterId": 0,
+            "id": "ae5b750c-b0ef-11eb-92bf-f1689e237a45",
+            "email": "javier@tomas.com"
+          },
+          {
+            "alterId": 0,
+            "id": "50e0581a-b0f0-11eb-92bf-f1689e237a45",
+            "email": "melina@tomas.com"
+          },
+          {
+            "alterId": 0,
+            "id": "1b846b92-b0f1-11eb-92bf-f1689e237a45",
+            "email": "jaky@tomas.com"
+          },
+          {
+            "alterId": 0,
+            "id": "72cb5e10-b0f1-11eb-92bf-f1689e237a45",
+            "email": "steven@tomas.com"
+          },
+          {
+            "alterId": 0,
+            "id": "da125b32-b0f1-11eb-92bf-f1689e237a45",
+            "email": "ivana@tomas.com"
+          },
+          {
+            "alterId": 0,
+            "id": "978a70e2-b0f6-11eb-92bf-f1689e237a45",
+            "email": "alejandra@tomas.com"
+          },
+          {
+            "alterId": 0,
+            "id": "a026c3fc-b102-11eb-92bf-f1689e237a45",
+            "email": "dario@tomas.com"
+          },
+          {
+            "alterId": 0,
+            "id": "28489ccc-b119-11eb-92bf-f1689e237a45",
+            "email": "angel2@tomas.com"
+          },
+          {
+            "alterId": 0,
+            "id": "809e9a8e-b119-11eb-92bf-f1689e237a45",
+            "email": "maria@tomas.com"
+          },
+          {
+            "alterId": 0,
+            "id": "ba00083e-b11a-11eb-92bf-f1689e237a45",
+            "email": "jose@tomas.com"
+          },
+          {
+            "alterId": 0,
+            "id": "8bac2cc8-b11b-11eb-92bf-f1689e237a45",
+            "email": "pocho@tomas.com"
+          },
+          {
+            "alterId": 0,
+            "id": "33d20daa-b11c-11eb-92bf-f1689e237a45",
+            "email": "myrian@tomas.com"
+          },
+          {
+            "alterId": 0,
+            "id": "1c95398c-b121-11eb-92bf-f1689e237a45",
+            "email": "raul@tomas.com"
+          },
+          {
+            "alterId": 0,
+            "id": "6af36b62-b121-11eb-92bf-f1689e237a45",
+            "email": "alejandra2@tomas"
+          },
+          {
+            "alterId": 0,
+            "id": "b448d66c-b185-11eb-92bf-f1689e237a45",
+            "email": "heidi@tomas.com"
+          },
+          {
+            "alterId": 0,
+            "id": "c45a3624-b24b-11eb-92bf-f1689e237a45",
+            "email": "gael@tomas.com"
+          },
+          {
+            "alterId": 0,
+            "id": "2d586a68-b29e-11eb-92bf-f1689e237a45",
+            "email": "rATtHULD@outlook.com"
+          },
+          {
+            "alterId": 0,
+            "id": "552075ea-b29e-11eb-92bf-f1689e237a45",
+            "email": "jesus@tomas.com"
+          },
+          {
+            "alterId": 0,
+            "id": "6ae51e8c-b2ab-11eb-92bf-f1689e237a45",
+            "email": "facundo2@tomas.com"
+          },
+          {
+            "alterId": 0,
+            "id": "437296ec-b8f3-11eb-92bf-f1689e237a45",
+            "email": "ana@tomas.com"
+          },
+          {
+            "alterId": 0,
+            "id": "73f5e134-b8f3-11eb-92bf-f1689e237a45",
+            "email": "nerea@tomas.com"
+          },
+          {
+            "alterId": 0,
+            "id": "a9e2a7c8-b8f3-11eb-92bf-f1689e237a45",
+            "email": "nazarena@tomas.com"
+          },
+          {
+            "alterId": 0,
+            "id": "5349baaa-bb19-11eb-92bf-f1689e237a45",
+            "email": "sandra@tomas.com"
+          },
+          {
+            "alterId": 0,
+            "id": "a8cd0bb2-bb19-11eb-92bf-f1689e237a45",
+            "email": "lucas@tomas.com"
+          },
+          {
+            "alterId": 0,
+            "id": "76821a20-bb4c-11eb-92bf-f1689e237a45",
+            "email": "danes@tomas.com"
+          },
+          {
+            "alterId": 0,
+            "id": "2c1674ec-be65-11eb-819f-89cb0acc71d8",
+            "email": "carlos@tomas.com"
+          }
+        ]
+      },
+      "streamSettings": {
+        "network": "ws",
+        "security": "none",
+        "tlsSettings": {},
+        "tcpSettings": {},
+        "kcpSettings": {},
+        "httpSettings": {},
+        "wsSettings": {
+          "path": "/ObMErT4c/",
+          "headers": {
+            "Host": "www.thomode.tk"
+          }
+        },
+        "quicSettings": {}
+      }
+    }
+  ],
+  "outbounds": [
+    {
+      "protocol": "freedom",
+      "settings": {}
+    },
+    {
+      "protocol": "blackhole",
+      "settings": {},
+      "tag": "blocked"
+    }
+  ],
+  "routing": {
+    "rules": [
+      {
+        "type": "field",
+        "ip": [
+          "0.0.0.0/8",
+          "10.0.0.0/8",
+          "100.64.0.0/10",
+          "169.254.0.0/16",
+          "172.16.0.0/12",
+          "192.0.0.0/24",
+          "192.0.2.0/24",
+          "192.168.0.0/16",
+          "198.18.0.0/15",
+          "198.51.100.0/24",
+          "203.0.113.0/24",
+          "::1/128",
+          "fc00::/7",
+          "fe80::/10"
+        ],
+        "outboundTag": "blocked"
+      }
+    ]
+  }
+}

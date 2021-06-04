@@ -22,9 +22,9 @@ def clients_list(user_seller):
 
                 if seller == user_seller:
                     if cont_client > 0 and cont_client < 10:
-                        message_client = "0" + str(cont_client) + ") " + id_client + "\t\t" + name
+                        message_client = "0" + str(cont_client) + ")\t" + id_client + "\t" + name
                     else:
-                        message_client = str(cont_client) + ") " + id_client + "\t\t" + name
+                        message_client = str(cont_client) + ")\t" + id_client + "\t" + name
 
                     print(message_client)
                     cont_client += 1
@@ -55,7 +55,8 @@ def clients_search(name_search, user_seller):
                 if user_seller == seller:
                     if name_search == name:
                         vali_client = True
-                        print(id_client + " " + name)
+                        print("\n" + id_client + "\t" + name)
+
                     else:
                         name_reg = ""
                         for i in range(name_search_len):
@@ -63,7 +64,7 @@ def clients_search(name_search, user_seller):
 
                         if name_search == name_reg:
                             vali_client = True
-                            print("\n" + id_client + "\t\t" + name)
+                            print("\n" + id_client + "\t" + name)
             except:
                 pass
 

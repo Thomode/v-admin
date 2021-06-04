@@ -96,7 +96,7 @@ def validation_seller(user_seller):
     return vali_seller
 
 def banner(user_seller=None):
-    men = "V-ADMIN 1.0"
+    men = "V-ADMIN 1.1"
     length = 60
 
     print(length*"=")
